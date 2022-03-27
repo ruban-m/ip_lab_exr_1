@@ -1,0 +1,20 @@
+img {
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.9);
+  position: absolute;
+  inset: 0;
+  margin: auto;
+}
+.flowers {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  background: #ff8aae;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.9);
+}
+.flowers h1 {
+  color: white;
+}
